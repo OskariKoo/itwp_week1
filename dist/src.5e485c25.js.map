@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["helloworld","console","log"],"mappings":";AAAA,SAASA,IACPC,QAAQC,IAAI","file":"src.5e485c25.js","sourceRoot":"..","sourcesContent":["function helloworld() {\r\n  console.log(\"Hello world\");\r\n}\r\n"]}
